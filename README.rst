@@ -12,6 +12,7 @@ This is an example of how the algorithm works
 (Not implemented yet)
 
 .. code:: py
+
   from hashes import SHA256
   
   text = "abc"
