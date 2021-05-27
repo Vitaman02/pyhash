@@ -1,4 +1,5 @@
-# cryptography
+pyhash
+==========
 
 A repo that implements cryptographic functions
 
